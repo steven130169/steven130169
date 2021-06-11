@@ -2,6 +2,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steven130169&hide=jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+# My Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [如何進入心流？番茄鐘工作法-工具搭配。Part-2](https://blog.chiwencheng.com/the-flow-part2/)
+- [如何進入心流？番茄鐘工作法-工具搭配。Part-1](https://blog.chiwencheng.com/the-flow-part1/)
+- [極速開發-進階版第二彈](https://blog.chiwencheng.com/ji-su-kai-fa-jin-jie-ban-di-er-dan/)
+- [Azure CosmosDB MongoDB 無法排序問題](https://blog.chiwencheng.com/azure-cosmosdb-zhu-yi-shi-xiang/)
+- [極速開發-進階版-實現無滑鼠開發](https://blog.chiwencheng.com/fast-develop-advanced/)
+<!-- BLOG-POST-LIST:END -->
+
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
 <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
@@ -19,11 +28,3 @@
 <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
 
 
-# My Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [如何進入心流？番茄鐘工作法-工具搭配。Part-2](https://blog.chiwencheng.com/the-flow-part2/)
-- [如何進入心流？番茄鐘工作法-工具搭配。Part-1](https://blog.chiwencheng.com/the-flow-part1/)
-- [極速開發-進階版第二彈](https://blog.chiwencheng.com/ji-su-kai-fa-jin-jie-ban-di-er-dan/)
-- [Azure CosmosDB MongoDB 無法排序問題](https://blog.chiwencheng.com/azure-cosmosdb-zhu-yi-shi-xiang/)
-- [極速開發-進階版-實現無滑鼠開發](https://blog.chiwencheng.com/fast-develop-advanced/)
-<!-- BLOG-POST-LIST:END -->
