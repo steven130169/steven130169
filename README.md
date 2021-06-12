@@ -1,15 +1,24 @@
-# Hi 大家好，我是鄭棋文- [Steven的每週好文](https://blog.chiwencheng.com)
+# Hi 大家好，我是[鄭棋文](https://blog.chiwencheng.com) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-## 一位軟體工程師、DDDTaiwan社群志工、社群講師、游泳教練。
+## 一位node.js後端工程師、DDDTaiwan社群志工、社群講師、游泳教練。
 ---
 - 興趣：⚾️熱愛打棒球、看棒球。
-- 
 
 ## 聯絡資訊
+<a href="https://twitter.com/stevencheng71">
+  <img align="left" alt="Steven Cheng | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
 
 
-## 本週
+![](https://visitor-badge.glitch.me/badge?page_id=steven130169.steven130169)
+
+<br />
+
+## 程式語言與相關技能
+
+
+## 本週開發使用語言比例
 <!--START_SECTION:waka-->
 ```text
 Week: 04 June, 2021 - 11 June, 2021
