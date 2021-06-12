@@ -39,6 +39,11 @@
 
 ## My Practice about Tennis Kata TDD
 <!-- YOUTUBE-PLAYLIST:START -->
+- [Title : Tennis Kata TDD with TypeScript & WebStorm & vim & Colemak #1 | Super Fast Develop](https://www.youtube.com/watch?v=fF1v-Fr5BQw)
+- [Tennis Kata TDD with TypeScript & WebStorm & vim & Colemak #11 | Super Fast Develop](https://www.youtube.com/watch?v=ZtibdQl1MNg)
+- [Tennis Kata TDD with TypeScript & WebStorm & vim & Colemak #8 | Super Fast Develop](https://www.youtube.com/watch?v=yyvygcXBnuw)
+- [Tennis Kata TDD with TypeScript & WebStorm & vim & Colemak #7 | Super Fast Develop](https://www.youtube.com/watch?v=lhJRMWOzhwE)
+- [Tennis Kata TDD with TypeScript & WebStorm & vim & Colemak #6 | Super Fast Develop](https://www.youtube.com/watch?v=-R8mtXIISPM)
 <!-- YOUTUBE-PLAYLIST:END -->
 
 
