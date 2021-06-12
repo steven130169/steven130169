@@ -11,12 +11,21 @@
 - Live in: 🇹🇼 Taiwan, New Taipei city
 
 ## Connect with me
-[<img align="left" alt="facebook | Steven Cheng"  src="https://img.icons8.com/plasticine/50/000000/facebook-new.png" />](https://www.facebook.com/zheng.q.wen.96/)
-[<img align="left" alt="linkedin | Steven Cheng"  src="https://img.icons8.com/plasticine/50/000000/linkedin.png" />](https://www.linkedin.com/in/chiwen-cheng/)
-[<img align="left" alt="twitter | Steven Cheng"  src="https://img.icons8.com/plasticine/50/000000/twitter--v2.png" />](https://twitter.com/stevencheng71)
-<br />
+<div>
+<a href="https://www.facebook.com/zheng.q.wen.96/">
+<img align="left" alt="facebook | Steven Cheng"  src="https://img.icons8.com/plasticine/40/000000/facebook-new.png" />
+ </a>
+<a href="https://www.linkedin.com/in/chiwen-cheng/">
+<img align="left" alt="linkedin | Steven Cheng"  src="https://img.icons8.com/plasticine/40/000000/linkedin.png" />
+ </a>
+<a href="https://twitter.com/stevencheng71">
+<img align="left" alt="twitter | Steven Cheng"  src="https://img.icons8.com/plasticine/40/000000/twitter--v2.png" />
+ </a>
+</div>
 
-# My Blog posts
+<br>
+
+## My Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -45,6 +54,8 @@
 </p>
 
 
+<details>
+ <summary> :laughing: Here is more details about me</summary>
 
 
 <!--START_SECTION:waka-->
@@ -132,7 +143,7 @@ Jupyter Notebook         1 repo              ███░░░░░░░░�
 
  Last Updated on 12/06/2021
 <!--END_SECTION:waka-->
-
+</details>
 
 
 <details>
