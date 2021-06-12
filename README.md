@@ -12,6 +12,8 @@
 ## 本週
 <!--START_SECTION:waka-->
 ```text
+Week: 04 June, 2021 - 11 June, 2021
+
 TypeScript   14 hrs 49 mins  █████████████████▒░░░░░░░   69.33 % 
 Other        3 hrs 34 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.71 % 
 JSON         1 hr 46 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
