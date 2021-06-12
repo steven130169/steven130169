@@ -37,7 +37,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-## My Practice about Tennis Kata TDD
+## My Practice about Tennis Kata TDD ![](https://img.icons8.com/cute-clipart/40/000000/youtube.png)
 <!-- YOUTUBE-PLAYLIST:START -->
 - [Title : Tennis Kata TDD with TypeScript & WebStorm & vim & Colemak #1 | Super Fast Develop](https://www.youtube.com/watch?v=fF1v-Fr5BQw)
 - [Tennis Kata TDD with TypeScript & WebStorm & vim & Colemak #11 | Super Fast Develop](https://www.youtube.com/watch?v=ZtibdQl1MNg)
