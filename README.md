@@ -11,6 +11,13 @@
 
 ## 本週
 <!--START_SECTION:waka-->
+```text
+TypeScript   14 hrs 49 mins  █████████████████▒░░░░░░░   69.33 % 
+Other        3 hrs 34 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.71 % 
+JSON         1 hr 46 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+JavaScript   44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+HTML         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+```
 <!--END_SECTION:waka-->
 
 [![chiwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=steven130169)](https://github.com/anuraghazra/github-readme-stats)
