@@ -1,13 +1,14 @@
 <div align="center">
-<h1>Hi there，I am <a href="https://blog.chiwencheng.com">Steven Cheng</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="giphy"></h1>
+<h1>Hi there，I am <a href="https://blog.chiwencheng.com">Steven Cheng</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="giphy"> 🇹🇼 </h1>
 </div>
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=steven130169.steven130169)
 <br />
 
-### A Backend Engineer,DDDTaiwan volunteer,speaker,swim coach.
-- habits：⚾play baseball, 🏊swimming, 🏸badminton.
+### A Backend Engineer , [DDDTaiwan](https://www.ddd-tw.com) volunteer , Speaker , Swimming Coach.
+- Habits：⚾play baseball, 🏊swimming, 🏸badminton.
+- Live in: 🇹🇼 Taiwan, New Taipei city
 
 ## Connect with me
 [<img align="left" alt="facebook | Steven Cheng"  src="https://img.icons8.com/plasticine/50/000000/facebook-new.png" />](https://www.facebook.com/zheng.q.wen.96/)
@@ -28,14 +29,18 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## Language and Skill
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
-<img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
-<br/>
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-<img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-<img alt="Jasmine" src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white" />
+<p>
+<img  alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img  alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+<img  alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+
+</p>
+<p>
+<img  alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img  alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+<img  alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<img  alt="Jasmine" src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white" />
+</p>
 
 
 
