@@ -28,11 +28,11 @@
 ## My Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [如何寫好一份JD，讓人才踴躍投遞履歷？](https://blog.chiwencheng.com/how-to-make-a-good-job-description/)
 - [如何製作一份獨特創意的Github Profile？](https://blog.chiwencheng.com/github-profile/)
 - [如何透過WakaTime 幫你記錄下，你的所有開發時間?](https://blog.chiwencheng.com/wakatime-introduction/)
 - [如何進入心流？番茄鐘工作法-工具搭配。Part-2](https://blog.chiwencheng.com/the-flow-part2/)
 - [如何進入心流？番茄鐘工作法-工具搭配。Part-1](https://blog.chiwencheng.com/the-flow-part1/)
-- [極速開發-進階版第二彈](https://blog.chiwencheng.com/ji-su-kai-fa-jin-jie-ban-di-er-dan/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Practice about Tennis Kata TDD ![](https://img.icons8.com/cute-clipart/40/000000/youtube.png)
