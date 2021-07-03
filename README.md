@@ -28,7 +28,7 @@
 ## My Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [如何寫好一份JD，讓人才踴躍投遞履歷？](https://blog.chiwencheng.com/how-to-make-a-good-job-description/)
+- [[每週新觀點]如何寫好一份JD，讓人才踴躍投遞履歷？](https://blog.chiwencheng.com/how-to-make-a-good-job-description/)
 - [如何製作一份獨特創意的Github Profile？](https://blog.chiwencheng.com/github-profile/)
 - [如何透過WakaTime 幫你記錄下，你的所有開發時間?](https://blog.chiwencheng.com/wakatime-introduction/)
 - [如何進入心流？番茄鐘工作法-工具搭配。Part-2](https://blog.chiwencheng.com/the-flow-part2/)
