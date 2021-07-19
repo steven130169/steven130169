@@ -28,11 +28,11 @@
 ## My Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [[文文報專欄]什麼是好的會議？所謂的會議效率是在追求什麼？](https://blog.chiwencheng.com/meeting-skill/)
+- [感謝Ergokb 提供試用最新研發鍵盤！](https://blog.chiwencheng.com/ergokb-keyboard/)
+- [[文文報專欄#3]團隊凝聚力，是一個公司創造的生產力關鍵？](https://blog.chiwencheng.com/team-cohesiveness/)
+- [[文文報專欄#2]什麼是好的會議？所謂的會議效率是在追求什麼？](https://blog.chiwencheng.com/meeting-skill/)
 - [Colemak 鍵盤配置，讓你打字變舒適！](https://blog.chiwencheng.com/colemak-description/)
-- [[文文報專欄]如何寫好一份JD，讓人才踴躍投遞履歷？](https://blog.chiwencheng.com/how-to-make-a-good-job-description/)
-- [如何製作一份獨特創意的Github Profile？](https://blog.chiwencheng.com/github-profile/)
-- [如何透過WakaTime 幫你記錄下，你的所有開發時間?](https://blog.chiwencheng.com/wakatime-introduction/)
+- [[文文報專欄#1]如何寫好一份JD，讓人才踴躍投遞履歷？](https://blog.chiwencheng.com/how-to-make-a-good-job-description/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Practice about Tennis Kata TDD ![](https://img.icons8.com/cute-clipart/40/000000/youtube.png)
