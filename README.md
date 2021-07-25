@@ -28,11 +28,11 @@
 ## My Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[文文報專欄#4]你能在壓力下，完成工作嗎？](https://blog.chiwencheng.com/ni-neng-zai-ya-li-xia-wan-cheng-gong-zuo-ma/)
 - [[個人學習紀錄]DDD領域驅動設計2021讀書會第一場！](https://blog.chiwencheng.com/domain-driven-design-2021-book-club/)
 - [感謝Ergokb 提供試用最新研發鍵盤！](https://blog.chiwencheng.com/ergokb-keyboard/)
 - [[文文報專欄#3]團隊凝聚力，是一個公司創造的生產力關鍵？](https://blog.chiwencheng.com/team-cohesiveness/)
 - [[文文報專欄#2]什麼是好的會議？所謂的會議效率是在追求什麼？](https://blog.chiwencheng.com/meeting-skill/)
-- [Colemak 鍵盤配置，讓你打字變舒適！](https://blog.chiwencheng.com/colemak-description/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Practice about Tennis Kata TDD ![](https://img.icons8.com/cute-clipart/40/000000/youtube.png)
