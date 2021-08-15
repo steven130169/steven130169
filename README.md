@@ -37,6 +37,10 @@
 
 ## My Newsletter 點D紀錄（nodejs develop） posts
 <!-- SUBSTACK:START -->
+- [#3 &#40670;D&#32000;&#37636;](https://nodejsdevelop.substack.com/p/3-d)
+- [#2 &#40670;D&#32000;&#37636;](https://nodejsdevelop.substack.com/p/2-d)
+- [#1 &#40670;D&#32000;&#37636;](https://nodejsdevelop.substack.com/p/1-nodejs-develop)
+- [&#20998;&#20139;node.js&#33287;&#36575;&#39636;&#38283;&#30332;&#30340;&#23416;&#32722;](https://nodejsdevelop.substack.com/p/coming-soon)
 <!-- SUBSTACK:END -->
 
 ## My Practice about Tennis Kata TDD ![](https://img.icons8.com/cute-clipart/40/000000/youtube.png)
