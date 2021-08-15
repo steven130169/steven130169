@@ -1,0 +1,17 @@
+name: Latest substack nodejs develop activity
+on:
+  schedule:
+    # Runs every 5 minutes
+    - cron: '0 0 16 * *'
+  workflow_dispatch:
+jobs:
+  update-readme-with-stack-overflow:
+    name: Update this repo's README with latest activity from substack
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "SUBSTACK"
+          commit_message: "Updated readme with the latest substack data"
+          feed_list: "https://nodejsdevelop.substack.com/feed"
