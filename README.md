@@ -35,6 +35,10 @@
 - [[文文報專欄#2]什麼是好的會議？所謂的會議效率是在追求什麼？](https://blog.chiwencheng.com/meeting-skill/)
 <!-- BLOG-POST-LIST:END -->
 
+## My Newsletter 點D紀錄（nodejs develop） posts
+<!-- SUBSTACK:START -->
+<!-- SUBSTACK:END -->
+
 ## My Practice about Tennis Kata TDD ![](https://img.icons8.com/cute-clipart/40/000000/youtube.png)
 <!-- YOUTUBE-PLAYLIST:START -->
 - [Tennis Kata TDD with TypeScript & WebStorm & vim & Colemak #1 | Super Fast Develop](https://www.youtube.com/watch?v=fF1v-Fr5BQw)
