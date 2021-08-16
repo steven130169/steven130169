@@ -37,9 +37,9 @@
 
 ## My Newsletter 點D紀錄（nodejs develop） posts
 <!-- SUBSTACK:START -->
-- [#3 &#40670;D&#32000;&#37636;](https://nodejsdevelop.substack.com/p/3-d)
-- [#2 &#40670;D&#32000;&#37636;](https://nodejsdevelop.substack.com/p/2-d)
-- [#1 &#40670;D&#32000;&#37636;](https://nodejsdevelop.substack.com/p/1-nodejs-develop)
+- [#3 &#40670;D&#32000;&#37636;-&#27169;&#20223;&#38283;&#28304;&#23560;&#26696;&#30340;&#26550;&#27083;&#26159;&#19968;&#31278;&#19981;&#37679;&#30340;&#23416;&#32722;](https://nodejsdevelop.substack.com/p/3-d)
+- [#2 &#40670;D&#32000;&#37636;-&#24171;&#20320;&#25214;&#20986;dependency module](https://nodejsdevelop.substack.com/p/2-d)
+- [#1 &#40670;D&#32000;&#37636;-&#39318;&#31687;&#38651;&#23376;&#22577;&#65292;&#27489;&#36814;&#22823;&#23478;&#65374;](https://nodejsdevelop.substack.com/p/1-nodejs-develop)
 - [&#20998;&#20139;node.js&#33287;&#36575;&#39636;&#38283;&#30332;&#30340;&#23416;&#32722;](https://nodejsdevelop.substack.com/p/coming-soon)
 <!-- SUBSTACK:END -->
 
