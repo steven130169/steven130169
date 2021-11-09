@@ -46,11 +46,11 @@
 
 ## My Practice about Tennis Kata TDD ![](https://img.icons8.com/cute-clipart/40/000000/youtube.png)
 <!-- YOUTUBE-PLAYLIST:START -->
-- [Tennis Kata TDD with TypeScript & WebStorm & vim & Colemak #1 | Super Fast Develop](https://www.youtube.com/watch?v=fF1v-Fr5BQw)
-- [Tennis Kata TDD with TypeScript & WebStorm & vim & Colemak #11 | Super Fast Develop](https://www.youtube.com/watch?v=ZtibdQl1MNg)
-- [Tennis Kata TDD with TypeScript & WebStorm & vim & Colemak #8 | Super Fast Develop](https://www.youtube.com/watch?v=yyvygcXBnuw)
-- [Tennis Kata TDD with TypeScript & WebStorm & vim & Colemak #7 | Super Fast Develop](https://www.youtube.com/watch?v=lhJRMWOzhwE)
-- [Tennis Kata TDD with TypeScript & WebStorm & vim & Colemak #6 | Super Fast Develop](https://www.youtube.com/watch?v=-R8mtXIISPM)
+- [Tennis Kata TDD with TypeScript &amp; WebStorm &amp; vim &amp; Colemak #1 | Super Fast Develop](https://www.youtube.com/watch?v=fF1v-Fr5BQw)
+- [Tennis Kata TDD with TypeScript &amp; WebStorm &amp; vim &amp; Colemak #11 | Super Fast Develop](https://www.youtube.com/watch?v=ZtibdQl1MNg)
+- [Tennis Kata TDD with TypeScript &amp; WebStorm &amp; vim &amp; Colemak #8 | Super Fast Develop](https://www.youtube.com/watch?v=yyvygcXBnuw)
+- [Tennis Kata TDD with TypeScript &amp; WebStorm &amp; vim &amp; Colemak #7 | Super Fast Develop](https://www.youtube.com/watch?v=lhJRMWOzhwE)
+- [Tennis Kata TDD with TypeScript &amp; WebStorm &amp; vim &amp; Colemak #6 | Super Fast Develop](https://www.youtube.com/watch?v=-R8mtXIISPM)
 <!-- YOUTUBE-PLAYLIST:END -->
 
 
