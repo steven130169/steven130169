@@ -37,11 +37,11 @@
 
 ## My Newsletter 點D紀錄（nodejs develop） posts
 <!-- SUBSTACK:START -->
-- [#4 &#40670;D&#32000;&#37636;-auto-mock](https://nodejsdevelop.substack.com/p/4-d-auto-mock)
-- [#3 &#40670;D&#32000;&#37636;-&#27169;&#20223;&#38283;&#28304;&#23560;&#26696;&#30340;&#26550;&#27083;&#26159;&#19968;&#31278;&#19981;&#37679;&#30340;&#23416;&#32722;](https://nodejsdevelop.substack.com/p/3-d)
-- [#2 &#40670;D&#32000;&#37636;-&#24171;&#20320;&#25214;&#20986;dependency module](https://nodejsdevelop.substack.com/p/2-d)
-- [#1 &#40670;D&#32000;&#37636;-&#39318;&#31687;&#38651;&#23376;&#22577;&#65292;&#27489;&#36814;&#22823;&#23478;&#65374;](https://nodejsdevelop.substack.com/p/1-nodejs-develop)
-- [&#20998;&#20139;node.js&#33287;&#36575;&#39636;&#38283;&#30332;&#30340;&#23416;&#32722;](https://nodejsdevelop.substack.com/p/coming-soon)
+- [#4 &amp;#40670;D&amp;#32000;&amp;#37636;-auto-mock](https://nodejsdevelop.substack.com/p/4-d-auto-mock)
+- [#3 &amp;#40670;D&amp;#32000;&amp;#37636;-&amp;#27169;&amp;#20223;&amp;#38283;&amp;#28304;&amp;#23560;&amp;#26696;&amp;#30340;&amp;#26550;&amp;#27083;&amp;#26159;&amp;#19968;&amp;#31278;&amp;#19981;&amp;#37679;&amp;#30340;&amp;#23416;&amp;#32722;](https://nodejsdevelop.substack.com/p/3-d)
+- [#2 &amp;#40670;D&amp;#32000;&amp;#37636;-&amp;#24171;&amp;#20320;&amp;#25214;&amp;#20986;dependency module](https://nodejsdevelop.substack.com/p/2-d)
+- [#1 &amp;#40670;D&amp;#32000;&amp;#37636;-&amp;#39318;&amp;#31687;&amp;#38651;&amp;#23376;&amp;#22577;&amp;#65292;&amp;#27489;&amp;#36814;&amp;#22823;&amp;#23478;&amp;#65374;](https://nodejsdevelop.substack.com/p/1-nodejs-develop)
+- [&amp;#20998;&amp;#20139;node.js&amp;#33287;&amp;#36575;&amp;#39636;&amp;#38283;&amp;#30332;&amp;#30340;&amp;#23416;&amp;#32722;](https://nodejsdevelop.substack.com/p/coming-soon)
 <!-- SUBSTACK:END -->
 
 ## My Practice about Tennis Kata TDD ![](https://img.icons8.com/cute-clipart/40/000000/youtube.png)
