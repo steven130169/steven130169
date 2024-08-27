@@ -76,13 +76,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C749%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C749%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 38.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 16 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -117,20 +119,16 @@ Sunday                   60 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    6 hrs               ████████████████████████░   96.06 % 
-TypeScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Other                    6 hrs               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          6 hrs               ████████████████████████░   96.06 % 
-IntelliJ IDEA            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Google Calendar          6 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          6 hrs               ████████████████████████░   96.06 % 
-DigiTool-AWS-CDK         14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Unknown Project          6 hrs               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Unknown OS               6 hrs               ████████████████████████░   96.06 % 
-Mac                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Unknown OS               6 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -150,7 +148,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/steven130169/steven130169/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2024 16:07:31 UTC
+ Last Updated on 27/08/2024 16:07:10 UTC
 <!--END_SECTION:waka-->
 
 </details>
