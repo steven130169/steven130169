@@ -76,7 +76,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C182%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C190%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -119,16 +119,16 @@ Sunday                   61 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    30 mins             █████████████████████████   100.00 % 
+Other                    8 hrs 30 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          30 mins             █████████████████████████   100.00 % 
+Google Calendar          8 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          30 mins             █████████████████████████   100.00 % 
+Unknown Project          8 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Unknown OS               30 mins             █████████████████████████   100.00 % 
+Unknown OS               8 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -148,7 +148,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/steven130169/steven130169/main/assets/bar_graph.png)
 
 
- Last Updated on 08/11/2025 16:07:55 UTC
+ Last Updated on 09/11/2025 16:07:41 UTC
 <!--END_SECTION:waka-->
 
 </details>
