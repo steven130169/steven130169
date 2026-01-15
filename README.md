@@ -119,16 +119,16 @@ Sunday                   71 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    2 hrs 30 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Google Calendar          2 hrs 30 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 30 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Unknown OS               2 hrs 30 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -148,7 +148,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/steven130169/steven130169/main/assets/bar_graph.png)
 
 
- Last Updated on 14/01/2026 16:11:39 UTC
+ Last Updated on 15/01/2026 16:14:48 UTC
 <!--END_SECTION:waka-->
 
 </details>
