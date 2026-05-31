@@ -1,68 +1,36 @@
-<div align="center">
-<h1>Hi 大家好，我是<a href="https://blog.chiwencheng.com">鄭棋文</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="giphy"></h1>
-</div>
+# Steven Cheng 鄭棋文
 
+> 主要 GitHub Profile README 請見 [`README.md`](./README.md)。
 
-![](https://visitor-badge.glitch.me/badge?page_id=steven130169.steven130169)
-<br />
+我是一位專注於全端開發、資料系統、自動化流程與工程改善的軟體工程師。近期重點包含 TypeScript / Node.js 全端開發、資料流程整理、CI/CD 自動化，以及使用 AI 輔助開發工具提升交付品質。
 
-### 一位node.js後端工程師、DDDTaiwan社群志工、社群講師、游泳教練。
-- 興趣：⚾️熱愛打棒球、看棒球。
--
+## 與 AMD Full-Stack / Automation 職缺相關的能力
 
-## 聯絡資訊
-[<img align="left" alt="facebook | Steven Cheng"  src="https://img.icons8.com/plasticine/50/000000/facebook-new.png" />](https://www.facebook.com/zheng.q.wen.96/)
-[<img align="left" alt="linkedin | Steven Cheng"  src="https://img.icons8.com/plasticine/50/000000/linkedin.png" />](https://www.linkedin.com/in/chiwen-cheng/)
-[<img align="left" alt="twitter | Steven Cheng"  src="https://img.icons8.com/plasticine/50/000000/twitter--v2.png" />](https://twitter.com/stevencheng71)
-<br />
+| 職缺重點 | 對應經驗 |
+| --- | --- |
+| 全端 Web 系統 | TypeScript、Node.js、Next.js、NestJS、API design、前後端整合 |
+| 內部資料系統 | 資料流梳理、資料轉換、跨系統資料正確性與可維護性 |
+| 跨部門溝通 | DDDTaiwan 社群志工、技術講師、工作坊引導與需求釐清 |
+| 自動化思維 | Release automation、CI/CD demo、測試自動化、流程改善 |
+| AI 輔助開發 | 使用 AI coding tools 搭配測試、review 與結構化開發流程 |
 
-## 程式語言與相關技能
+## 精選公開作品
 
-## 本週開發使用語言比例
+| 專案 | 說明 |
+| --- | --- |
+| [Steven Cheng Portfolio](https://github.com/steven130169/Steven-cheng-porfolio) | Next.js / TypeScript 全端 monorepo，包含 GCP Cloud Run、Firestore、Vitest、Playwright 與 BDD 測試策略 |
+| [Aha Exam](https://github.com/steven130169/aha-exam) | TypeScript / Node.js 全端測驗專案，涵蓋登入、驗證與 API 設計 |
+| [Trello Export JSON Converter](https://github.com/steven130169/trelloExportJSON-converter) | 將 Trello 匯出資料轉換成更容易分析的 spreadsheet-friendly 格式 |
+| [PageSpeed Test for CI/CD](https://github.com/steven130169/pagespeedTestForCICD) | 將效能檢查放入 CI/CD quality gate 的概念實作 |
+| [DevOpsDays Release Demo](https://github.com/steven130169/devopsday-2023-demo) | Release automation 工作坊教材，聚焦改善交付流程 |
 
-<!--START_SECTION:waka-->
+## 技術焦點
 
-```text
-Week: 04 June, 2021 - 11 June, 2021
+TypeScript、Node.js、Next.js、NestJS、Express、Python、SQL、Google Cloud、Docker、GitHub Actions、Jest、Vitest、Playwright。
 
-TypeScript   14 hrs 49 mins  █████████████████▒░░░░░░░   69.33 % 
-Other        3 hrs 34 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.71 % 
-JSON         1 hr 46 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-JavaScript   44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-HTML         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-```
+## 工程價值觀
 
-<!--END_SECTION:waka-->
-
-[![chiwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=steven130169)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steven130169&hide=jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-# My Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [如何進入心流？番茄鐘工作法-工具搭配。Part-2](https://blog.chiwencheng.com/the-flow-part2/)
-- [如何進入心流？番茄鐘工作法-工具搭配。Part-1](https://blog.chiwencheng.com/the-flow-part1/)
-- [極速開發-進階版第二彈](https://blog.chiwencheng.com/ji-su-kai-fa-jin-jie-ban-di-er-dan/)
-- [Azure CosmosDB MongoDB 無法排序問題](https://blog.chiwencheng.com/azure-cosmosdb-zhu-yi-shi-xiang/)
-- [極速開發-進階版-實現無滑鼠開發](https://blog.chiwencheng.com/fast-develop-advanced/)
-
-<!-- BLOG-POST-LIST:END -->
-
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
-<img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
-
-
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-<img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-<img alt="Jasmine" src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white" />
-
-
-<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
-
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
-
-
+- 先釐清真正的流程問題，再開始實作。
+- 用測試、文件與自動化讓系統行為可以被理解與驗證。
+- 偏好簡單、可維護、能讓不同角色理解的設計。
+- 把 AI 工具視為工程加速器，但仍保留 review、測試與責任感。
