@@ -6,7 +6,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=steven130169.steven130169)
 <br />
 
-### A Backend Engineer , [DDDTaiwan](https://www.ddd-tw.com) volunteer , Speaker , Swimming Coach.
+### A full-stack Engineer, [DDDTaiwan](https://www.ddd-tw.com) volunteer, Speaker, Swimming Coach.
 - Habits：⚾play baseball, 🏊swimming, 🏸badminton.
 - Live in: 🇹🇼 Taiwan, New Taipei city
 
