@@ -7,10 +7,12 @@
 <br />
 
 ### A full-stack Engineer, [DDDTaiwan](https://www.ddd-tw.com) volunteer, Speaker, Swimming Coach.
+
 - Habits：⚾play baseball, 🏊swimming, 🏸badminton.
-- Live in: 🇹🇼 Taiwan, New Taipei city
+- Live in: 🇹🇼 Taiwan, Taipei city
 
 ## Connect with me
+
 <div>
 <a href="https://www.facebook.com/zheng.q.wen.96/">
 <img align="left" alt="facebook | Steven Cheng"  src="https://img.icons8.com/plasticine/40/000000/facebook-new.png" />
@@ -26,16 +28,19 @@
 <br>
 
 ## My Practice about Tennis Kata TDD ![](https://img.icons8.com/cute-clipart/40/000000/youtube.png)
+
 <!-- YOUTUBE-PLAYLIST:START -->
+
 - [Tennis Kata TDD with TypeScript &amp; WebStorm &amp; vim &amp; Colemak #1 | Super Fast Develop](https://www.youtube.com/watch?v=fF1v-Fr5BQw)
 - [Tennis Kata TDD with TypeScript &amp; WebStorm &amp; vim &amp; Colemak #11 | Super Fast Develop](https://www.youtube.com/watch?v=ZtibdQl1MNg)
 - [Tennis Kata TDD with TypeScript &amp; WebStorm &amp; vim &amp; Colemak #8 | Super Fast Develop](https://www.youtube.com/watch?v=yyvygcXBnuw)
 - [Tennis Kata TDD with TypeScript &amp; WebStorm &amp; vim &amp; Colemak #7 | Super Fast Develop](https://www.youtube.com/watch?v=lhJRMWOzhwE)
 - [Tennis Kata TDD with TypeScript &amp; WebStorm &amp; vim &amp; Colemak #6 | Super Fast Develop](https://www.youtube.com/watch?v=-R8mtXIISPM)
+
 <!-- YOUTUBE-PLAYLIST:END -->
 
-
 ## Language and Skill
+
 <p>
 <img  alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img  alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
@@ -61,19 +66,19 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 43.7 kB Used in GitHub's Storage 
- > 
+> 📦 43.7 kB Used in GitHub's Storage
+>
 > 🏆 86 Contributions in the Year 2026
- > 
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 55 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
-**I'm an Early 🐤** 
+>
+> 📜 55 Public Repositories
+>
+> 🔑 1 Private Repositories
+>
+**I'm an Early 🐤**
 
 ```text
 🌞 Morning                112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
@@ -81,7 +86,8 @@
 🌃 Evening                224 commits         ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
 🌙 Night                  34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+
+📅 **I'm Most Productive on Wednesday**
 
 ```text
 Monday                   98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
@@ -93,8 +99,7 @@ Saturday                 41 commits          █░░░░░░░░░░�
 Sunday                   97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Taipei
@@ -112,7 +117,7 @@ Unknown Project          1 hr 30 mins        ███████████�
 Unknown OS               1 hr 30 mins        █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
 JavaScript               10 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
@@ -122,14 +127,11 @@ Java                     1 repo              █░░░░░░░░░░�
 Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
-
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/steven130169/steven130169/main/assets/bar_graph.png)
 
-
- Last Updated on 30/05/2026 16:29:14 UTC
+Last Updated on 30/05/2026 16:29:14 UTC
 <!--END_SECTION:waka-->
 
 </details>
