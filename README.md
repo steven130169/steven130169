@@ -62,8 +62,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C178%20hrs%2048%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -78,45 +76,6 @@
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-🌆 Daytime                653 commits         ████████████████░░░░░░░░░   63.83 % 
-🌃 Evening                224 commits         █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-🌙 Night                  34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-Tuesday                  228 commits         ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
-Wednesday                258 commits         ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
-Thursday                 138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Friday                   157 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Saturday                 41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-Sunday                   103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -134,7 +93,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/steven130169/steven130169/main/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2026 16:32:04 UTC
+ Last Updated on 07/06/2026 16:37:34 UTC
 <!--END_SECTION:waka-->
 
 </details>
