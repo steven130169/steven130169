@@ -62,7 +62,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C182%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C183%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -105,16 +105,16 @@ Sunday                   103 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    2 hrs 30 mins       █████████████████████████   100.00 % 
+Other                    1 hr                █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          2 hrs 30 mins       █████████████████████████   100.00 % 
+Google Calendar          1 hr                █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 30 mins       █████████████████████████   100.00 % 
+Unknown Project          1 hr                █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Unknown OS               2 hrs 30 mins       █████████████████████████   100.00 % 
+Unknown OS               1 hr                █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -134,7 +134,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/steven130169/steven130169/main/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2026 17:04:17 UTC
+ Last Updated on 12/07/2026 17:06:45 UTC
 <!--END_SECTION:waka-->
 
 </details>
