@@ -62,15 +62,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C185%20hrs%2018%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 44.4 kB Used in GitHub's Storage 
  > 
-> 🏆 101 Contributions in the Year 2026
+> 🏆 107 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,45 +76,6 @@
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-🌆 Daytime                665 commits         ████████████████░░░░░░░░░   64.07 % 
-🌃 Evening                224 commits         █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
-🌙 Night                  37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Tuesday                  232 commits         ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
-Wednesday                268 commits         ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
-Thursday                 139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Friday                   157 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Saturday                 41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Sunday                   103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-Other                    1 hr 30 mins        █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Google Calendar          1 hr 30 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Unknown Project          1 hr 30 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Unknown OS               1 hr 30 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -134,7 +93,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/steven130169/steven130169/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 17:37:06 UTC
+ Last Updated on 24/07/2026 17:43:41 UTC
 <!--END_SECTION:waka-->
 
 </details>
