@@ -62,6 +62,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C185%20hrs%2018%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -76,6 +78,45 @@
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+🌆 Daytime                671 commits         ████████████████░░░░░░░░░   63.18 % 
+🌃 Evening                224 commits         █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+🌙 Night                  40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Tuesday                  232 commits         █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+Wednesday                274 commits         ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
+Thursday                 142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Friday                   172 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Saturday                 41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Sunday                   103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+Other                    1 hr 30 mins        █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Google Calendar          1 hr 30 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Unknown Project          1 hr 30 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Unknown OS               1 hr 30 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -93,7 +134,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/steven130169/steven130169/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 17:43:41 UTC
+ Last Updated on 25/07/2026 17:07:17 UTC
 <!--END_SECTION:waka-->
 
 </details>
