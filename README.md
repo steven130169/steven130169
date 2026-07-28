@@ -62,10 +62,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C320%20hrs%205%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -80,51 +76,6 @@
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-🌆 Daytime                685 commits         ████████████████░░░░░░░░░   63.19 % 
-🌃 Evening                224 commits         █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-🌙 Night                  42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-Tuesday                  232 commits         █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
-Wednesday                278 commits         ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
-Thursday                 144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Friday                   178 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Saturday                 41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-Sunday                   103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-Other                    1 hr                █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Google Calendar          1 hr                █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Unknown Project          1 hr                █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Unknown OS               1 hr                █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -142,7 +93,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/steven130169/steven130169/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 17:48:13 UTC
+ Last Updated on 28/07/2026 17:40:28 UTC
 <!--END_SECTION:waka-->
 
 </details>
