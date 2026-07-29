@@ -62,13 +62,17 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C320%20hrs%205%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 44.4 kB Used in GitHub's Storage 
  > 
-> 🏆 113 Contributions in the Year 2026
+> 🏆 115 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,6 +80,51 @@
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+🌆 Daytime                692 commits         ████████████████░░░░░░░░░   63.20 % 
+🌃 Evening                224 commits         █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+🌙 Night                  43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Tuesday                  232 commits         █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+Wednesday                282 commits         ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
+Thursday                 145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Friday                   181 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Saturday                 41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Sunday                   103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+Other                    1 hr                █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Google Calendar          1 hr                █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Unknown Project          1 hr                █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Unknown OS               1 hr                █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -93,7 +142,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/steven130169/steven130169/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 17:40:28 UTC
+ Last Updated on 29/07/2026 17:21:49 UTC
 <!--END_SECTION:waka-->
 
 </details>
