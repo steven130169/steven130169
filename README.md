@@ -66,7 +66,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -107,16 +107,16 @@ Sunday                   103 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    17 hrs 30 mins      █████████████████████████   100.00 % 
+Other                    21 hrs 30 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          17 hrs 30 mins      █████████████████████████   100.00 % 
+Google Calendar          21 hrs 30 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          17 hrs 30 mins      █████████████████████████   100.00 % 
+Unknown Project          21 hrs 30 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Unknown OS               17 hrs 30 mins      █████████████████████████   100.00 % 
+Unknown OS               21 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -142,7 +142,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/steven130169/steven130169/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 20:59:23 UTC
+ Last Updated on 30/10/2026 20:37:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
