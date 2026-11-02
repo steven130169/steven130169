@@ -70,7 +70,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 44.5 kB Used in GitHub's Storage 
+> 📦 44.6 kB Used in GitHub's Storage 
  > 
 > 🏆 115 Contributions in the Year 2026
  > 
@@ -107,16 +107,16 @@ Sunday                   103 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    23 hrs 30 mins      █████████████████████████   100.00 % 
+Other                    26 hrs 30 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          23 hrs 30 mins      █████████████████████████   100.00 % 
+Google Calendar          26 hrs 30 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          23 hrs 30 mins      █████████████████████████   100.00 % 
+Unknown Project          26 hrs 30 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Unknown OS               23 hrs 30 mins      █████████████████████████   100.00 % 
+Unknown OS               26 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -142,7 +142,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/steven130169/steven130169/main/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2026 20:24:42 UTC
+ Last Updated on 02/11/2026 23:23:32 UTC
 <!--END_SECTION:waka-->
 
 </details>
