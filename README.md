@@ -62,11 +62,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C320%20hrs%205%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -80,51 +76,6 @@
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-🌆 Daytime                692 commits         ████████████████░░░░░░░░░   63.14 % 
-🌃 Evening                224 commits         █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-🌙 Night                  44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Tuesday                  232 commits         █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-Wednesday                283 commits         ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
-Thursday                 145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Friday                   181 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Saturday                 41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-Sunday                   103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-Other                    26 hrs 30 mins      █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Google Calendar          26 hrs 30 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Unknown Project          26 hrs 30 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Unknown OS               26 hrs 30 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -142,7 +93,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/steven130169/steven130169/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2026 23:23:32 UTC
+ Last Updated on 03/11/2026 21:39:48 UTC
 <!--END_SECTION:waka-->
 
 </details>
