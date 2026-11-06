@@ -107,16 +107,16 @@ Sunday                   103 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    14 hrs 30 mins      █████████████████████████   100.00 % 
+Other                    6 hrs 30 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          14 hrs 30 mins      █████████████████████████   100.00 % 
+Google Calendar          6 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          14 hrs 30 mins      █████████████████████████   100.00 % 
+Unknown Project          6 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Unknown OS               14 hrs 30 mins      █████████████████████████   100.00 % 
+Unknown OS               6 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -142,7 +142,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/steven130169/steven130169/main/assets/bar_graph.png)
 
 
- Last Updated on 05/11/2026 21:52:55 UTC
+ Last Updated on 06/11/2026 21:25:40 UTC
 <!--END_SECTION:waka-->
 
 </details>
